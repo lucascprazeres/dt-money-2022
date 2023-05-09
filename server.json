@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-01-04T20:24:57.365Z"
+    },
+    {
+      "description": "Macbook Air M1",
+      "price": 6000,
+      "category": "Eletrônicos",
+      "type": "outcome",
+      "createdAt": "2023-05-09T23:18:55.331Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-09T23:35:41.800Z",
+      "id": 5
     }
   ]
 }
